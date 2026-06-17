@@ -1,8 +1,5 @@
-<p align="center">
-  <img alt="discord_bot.py" src="https://i.alexflipnote.dev/MiFAeTE.png" width="750px">
-</p>
 
-Do you need more help? Visit my server here: **https://discord.gg/yqb7vATbjH** 🍺
+Do you need more help? Visit my profile here: **[https://discord.gg/yqb7vATbjH](https://discord.com/users/1194979622631252039)** 🍺
 
 ## Requirements
 - Python 3.10 and up - https://www.python.org/downloads/
@@ -17,7 +14,7 @@ I recommend having Visual Studio Code with the Python extension installed to hel
 
 ## How to setup
 1. Make a bot [here](https://discordapp.com/developers/applications/me) and grab the token
-![Image_Example1](https://i.alexflipnote.dev/f9668b.png)
+
 
 1. Rename the file **.env.example** to **.env**, then fill in the required spots, such as token, prefix and game
 
