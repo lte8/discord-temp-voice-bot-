@@ -1,5 +1,4 @@
 FROM python:3.10-alpine
-LABEL maintainer="AlexFlipnote <root@alexflipnote.dev>"
 
 LABEL build_date="2022-04-25"
 RUN apk update && apk upgrade
